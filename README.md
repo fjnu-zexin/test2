@@ -6,6 +6,6 @@
 
 
 截图：
-![Image](https://github.com/fjnu-zexin/test2/blob/master/img/p1.PNG)
-![Image](https://github.com/fjnu-zexin/test2/blob/master/img/p2.PNG)
-![Image](https://github.com/fjnu-zexin/test2/blob/master/img/p3.PNG)
+![Image](https://github.com/fjnu-zexin/test2/blob/master/img/p1.png)
+![Image](https://github.com/fjnu-zexin/test2/blob/master/img/p2.png)
+![Image](https://github.com/fjnu-zexin/test2/blob/master/img/p3.png)
